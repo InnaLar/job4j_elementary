@@ -2,6 +2,6 @@ package ru.job4j;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Здравствуй, мир!");
+        System.out.println("Здравствуй, мир и Инна!");
     }
 }
